@@ -1,5 +1,5 @@
 # [Portfolio](https://christianjohnston97.github.io/index.html)
 
-## Preview
+## Can add preview image here later Preview
 
-[![Preview](https://christianjohnston97.github.io/index.html)]
+##[![Preview](https://christianjohnston97.github.io/index.html)]
